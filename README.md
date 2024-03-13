@@ -45,25 +45,25 @@
    > IntelliJ profiling provides detailed insights into how your application behaves at runtime, helping you pinpoint 
   specific areas of improvement in your code while performance testing with JMeter will measure and analyze how your 
   application performs under various loads which helps you understand the overall performance characteristics of your 
-  application under different conditions. <br>
+  application under different conditions. <br><br>
 2. How does the profiling process help you in identifying and understanding the weak points in your application? <br>
     > Providing detailed information about the execution flow and resource consumption of your application, Highlighting 
 areas of the code that consume the most CPU time, memory, or other resources, Identifying potential memory leaks or 
-inefficient algorithms, and others. <br>
+inefficient algorithms, and others. <br><br>
 3. Do you think IntelliJ Profiler is effective in assisting you to analyze and identify bottlenecks in your application 
 code? <br>
-    > Yes, I can know which part of my code that I can optimize. <br>
+    > Yes, I can know which part of my code that I can optimize. <br><br>
 4. What are the main challenges you face when conducting performance testing and profiling, and how do you overcome 
 these challenges? <br>
     > One of the challenges is testing the scalability of the system to handle a large number of users or transactions.
-To overcome it, I use load testing tools like JMeter to simulate a large number of users and transactions. <br>
+To overcome it, I use load testing tools like JMeter to simulate a large number of users and transactions. <br><br>
 5. What are the main benefits you gain from using IntelliJ Profiler for profiling your application code? <br>
-    > Detailed insights, real time monitoring, integration with other IntelliJ tools, and many more. <br>
+    > Detailed insights, real time monitoring, integration with other IntelliJ tools, and many more. <br><br>
 6. How do you handle situations where the results from profiling with IntelliJ Profiler are not entirely consistent with 
 findings from performance testing using JMeter? <br>
     > Review the data collected by IntelliJ Profiler to understand the specific performance metrics, such as CPU usage, 
 memory allocation, and thread activity. Look for any anomalies or unexpected behavior that could explain the 
-reasons of the inconsistency. <br>
+reasons of the inconsistency. <br><br>
 7. What strategies do you implement in optimizing application code after analyzing results from performance testing and 
 profiling? How do you ensure the changes you make do not affect the application's functionality? <br>
     > I try to focus on optimizing parts of my code that consumes the most resources. uSE Git to track changes to your
